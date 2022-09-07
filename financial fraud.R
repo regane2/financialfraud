@@ -1,0 +1,7 @@
+library(tidyverse)
+PS_20174392719_1491204439457_log <- read.csv("~/Downloads/PS_20174392719_1491204439457_log.csv") 
+library(readr)
+library(dplyr)
+library(randomForest)
+library(ggplot2)
+set.seed(23)
